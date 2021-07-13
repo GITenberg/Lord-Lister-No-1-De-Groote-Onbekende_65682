@@ -1,5 +1,5 @@
 _repo: Lord-Lister-No-1-De-Groote-Onbekende_65682
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hageman, Felix (Leonard Felix)
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '53451'
     url: http://www.gutenberg.org/2009/agents/53451
     wikipedia: https://nl.wikipedia.org/wiki/Felix_Hageman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Blankensee, Theo von
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40698
     wikipedia: https://de.wikipedia.org/wiki/Kurt_Matull
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65682#Lord-Lister-No-1-De-Groote-Onbekende
 gutenberg_issued: '2021-06-23'
 gutenberg_type: Text
 identifiers:
